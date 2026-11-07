@@ -249,4 +249,4 @@ This repository serves as the official landing page for inZOI. The software is d
 **Get the most recent version of inZOI today!**
 
 ---
-**Last updated:** 2026-11-06 22:35:11 UTC
+**Last updated:** 2026-11-07 02:28:45 UTC
